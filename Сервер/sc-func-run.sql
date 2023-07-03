@@ -1,0 +1,1 @@
+SELECT dbo.Get_price_sum('Токарь', '1', '4')
